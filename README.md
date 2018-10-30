@@ -1,4 +1,4 @@
-# Basic-HTML-Template
+# Basic-HTML-CSS-Template
 
 # All copyrights reserved by Ankesh Gaikwad.
 
